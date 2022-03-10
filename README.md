@@ -28,6 +28,10 @@
 #### trimmed
 ![ayr_t_q](resources/ayr_trimmed_fastqc_quality.png)
 
+Также я заметил, что на всех графиках GC есть пик справа на колоколе. Для примера приведу ATH.
+
+![ayr_t_q](resources/gc_trimmed_ath.png)
+
 ## Таблица статистик
 
 || ATH | OLG | AYR |
